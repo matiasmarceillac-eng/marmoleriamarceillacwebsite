@@ -1,31 +1,25 @@
-# Marmolería Marceillac — sitio PHP/MySQL
+Marmolería Marceillac — PHP/MySQL website
 
-Sitio responsive preparado para un hosting PHP tradicional. Conserva las secciones del sitio actual y suma un configurador visual de mesadas con guardado en MySQL y salida a WhatsApp.
+Responsive website prepared for traditional PHP hosting. It preserves the sections of the current website and adds a visual countertop configurator with MySQL storage and WhatsApp integration.
 
-## Instalación en Donweb / Ferozo
+Installation on Donweb / Ferozo
 
-1. Creá una base MySQL desde el panel e importá `database.sql` con phpMyAdmin.
-2. Duplicá `config.php.example` como `config.php` y completá los datos de la base.
-3. Subí el contenido de esta carpeta a `public_html` (o a la carpeta del dominio).
-4. Asegurate de que `uploads/` tenga permiso de escritura (`755`; si el hosting lo exige, `775`).
-5. Abrí `index.php` y hacé una prueba completa del configurador.
-
-## Requisitos
-
-- PHP 8.0 o superior.
-- Extensiones PDO MySQL y Fileinfo.
-- MySQL 5.7+ o MariaDB 10.2+.
-
-## Seguridad incluida
-
-- Consultas preparadas con PDO.
-- Validación real de MIME y límite de 6 MB para adjuntos.
-- Nombres aleatorios para archivos subidos.
-- Bloqueo web de `config.php`, `database.sql` y este README.
-
-## Antes de publicar
-
-- Reemplazá las claves de `config.php`.
-- Confirmá los dos números de WhatsApp.
-- Revisá los nombres y disponibilidad de materiales.
-- Idealmente convertí las muestras remotas del catálogo a archivos locales propios.
+Create a MySQL database in the control panel and import database.sql using phpMyAdmin.
+Make a copy of config.php.example named config.php, then enter your database details.
+Upload the contents of this folder to public_html or the domain’s document root.
+Make sure uploads/ is writable (755; use 775 if required by the hosting provider).
+Open index.php and complete a full test of the configurator.
+Requirements
+PHP 8.0 or later.
+PDO MySQL and Fileinfo extensions.
+MySQL 5.7+ or MariaDB 10.2+.
+Security features
+Prepared statements with PDO.
+MIME type validation and a 6 MB upload limit.
+Randomized filenames for uploaded files.
+Web access blocked for config.php, database.sql, and this README.
+Before publishing
+Replace the credentials in config.php.
+Confirm both WhatsApp numbers.
+Review material names and availability.
+Ideally, replace the remote catalog samples with your own local image files.
