@@ -1,0 +1,8 @@
+<?php
+return [
+  'db_host' => 'localhost',
+  'db_name' => 'marmoleria',
+  'db_user' => 'usuario_mysql',
+  'db_pass' => 'cambiar_esta_clave',
+  'whatsapp' => '5492236191251',
+];

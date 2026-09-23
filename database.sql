@@ -1,0 +1,20 @@
+CREATE TABLE presupuestos (
+  id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  nombre VARCHAR(120) NOT NULL,
+  telefono VARCHAR(50) NOT NULL,
+  zona VARCHAR(120) NULL,
+  tipo_trabajo VARCHAR(50) NOT NULL,
+  forma VARCHAR(50) NOT NULL,
+  medidas JSON NOT NULL,
+  material VARCHAR(120) NOT NULL,
+  muebles VARCHAR(80) NULL,
+  bacha VARCHAR(80) NULL,
+  espesor VARCHAR(50) NULL,
+  frente VARCHAR(50) NULL,
+  anafe VARCHAR(50) NULL,
+  plazo VARCHAR(80) NULL,
+  observaciones TEXT NULL,
+  imagen VARCHAR(255) NULL,
+  fecha DATETIME NOT NULL,
+  INDEX idx_fecha (fecha), INDEX idx_telefono (telefono)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

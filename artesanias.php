@@ -1,0 +1,4 @@
+<?php $titulo='Artesanías de mármol'; include 'includes/header.php'; ?>
+<section class="page-hero"><p class="eyebrow">Interiorismo y artesanías</p><h1>La piedra también vive en los pequeños detalles.</h1></section>
+<section class="story grid-2"><div><img src="assets/img/artesania.webp" alt="Artesanía realizada en mármol"></div><div><p class="large">Un proyecto de diseño encabezado por Melisa Marceillac que lleva la experiencia del taller a objetos únicos para la casa.</p><p>Bandejas, tablas y piezas de interiorismo aprovechan la veta, el color y la singularidad de cada recorte. La Tabla Chevron recibió el Sello del Buen Diseño por su innovación, producción local y calidad de diseño.</p><a class="button" href="https://www.instagram.com/mmdisenoenmarmol/" target="_blank" rel="noopener">Consultar en Instagram</a></div></section>
+<?php include 'includes/footer.php'; ?>

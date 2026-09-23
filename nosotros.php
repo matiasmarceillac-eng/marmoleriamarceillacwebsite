@@ -1,0 +1,5 @@
+<?php $titulo='Sobre nosotros'; include 'includes/header.php'; ?>
+<section class="page-hero"><p class="eyebrow">Nuestra historia</p><h1>Una familia ligada a la piedra desde 1915.</h1></section>
+<section class="story grid-2"><div><img src="assets/img/taller.webp" alt="Equipo y taller de Marmolería Marceillac"></div><div><p class="large">En 1915, esta familia de origen francés comenzó a realizar trabajos en granitos reconstituidos y formó parte de grandes obras públicas y privadas.</p><p>Años más tarde llegó la especialización en mármoles y granitos naturales. Hoy seguimos trabajando con mano de obra experimentada, maquinaria actual y el mismo compromiso con cada terminación.</p><blockquote>“Responsabilidad desde la medición hasta su perfecta terminación y entrega.”</blockquote></div></section>
+<section class="facts"><div><strong>1915</strong><span>Comienza la historia familiar</span></div><div><strong>4</strong><span>Generaciones de oficio</span></div><div><strong>1957</strong><span>Servicio continuo en Mar del Plata</span></div></section>
+<?php include 'includes/footer.php'; ?>
