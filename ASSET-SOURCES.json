@@ -1,0 +1,162 @@
+{
+  "retrieved": "2026-09-28",
+  "textures": [
+    {
+      "id": "Granite001A",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Granite001A",
+      "download": "https://ambientcg.com/get?file=Granite001A_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Granite002A",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Granite002A",
+      "download": "https://ambientcg.com/get?file=Granite002A_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Granite005A",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Granite005A",
+      "download": "https://ambientcg.com/get?file=Granite005A_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble006",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble006",
+      "download": "https://ambientcg.com/get?file=Marble006_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble007",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble007",
+      "download": "https://ambientcg.com/get?file=Marble007_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble012",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble012",
+      "download": "https://ambientcg.com/get?file=Marble012_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble014",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble014",
+      "download": "https://ambientcg.com/get?file=Marble014_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble016",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble016",
+      "download": "https://ambientcg.com/get?file=Marble016_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble019",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble019",
+      "download": "https://ambientcg.com/get?file=Marble019_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble020",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble020",
+      "download": "https://ambientcg.com/get?file=Marble020_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Marble021",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Marble021",
+      "download": "https://ambientcg.com/get?file=Marble021_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    },
+    {
+      "id": "Terrazzo018",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Terrazzo018",
+      "download": "https://ambientcg.com/get?file=Terrazzo018_2K-JPG.zip",
+      "modifications": "Color original 2048px; normal and roughness resized to 1024px for web use."
+    }
+  ],
+  "room_textures": [
+    {
+      "id": "Wood096",
+      "use": "Mesa y sillas",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Wood096",
+      "download": "https://ambientcg.com/get?file=Wood096_1K-JPG.zip"
+    },
+    {
+      "id": "Metal009",
+      "use": "Cocina y horno",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Metal009",
+      "download": "https://ambientcg.com/get?file=Metal009_1K-JPG.zip"
+    },
+    {
+      "id": "Metal011",
+      "use": "Heladera de acero cepillado",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Metal011",
+      "download": "https://ambientcg.com/get?file=Metal011_1K-JPG.zip"
+    },
+    {
+      "id": "Plastic010",
+      "use": "Melamina, interiores y zócalos",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Plastic010",
+      "download": "https://ambientcg.com/get?file=Plastic010_1K-JPG.zip"
+    },
+    {
+      "id": "Tiles052",
+      "use": "Piso negro de cocina",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Tiles052",
+      "download": "https://ambientcg.com/get?file=Tiles052_1K-JPG.zip"
+    },
+    {
+      "id": "Tiles010",
+      "use": "Pared de azulejo blanco",
+      "author": "ambientCG / Lennart Demes",
+      "license": "CC0-1.0",
+      "source": "https://ambientcg.com/view?id=Tiles010",
+      "download": "https://ambientcg.com/get?file=Tiles010_1K-JPG.zip"
+    }
+  ],
+  "models": {
+    "author": "Kenney",
+    "source": "https://kenney.nl/assets/furniture-kit",
+    "license": "CC0-1.0",
+    "files": [
+      "chair.glb",
+      "kitchenStoveElectric.glb",
+      "kitchenFridge.glb"
+    ]
+  },
+  "scope": "New studio assets only. Original user-supplied catalog and other website imagery retain their existing provenance."
+}

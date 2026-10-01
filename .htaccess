@@ -1,4 +1,18 @@
 Options -Indexes
-<FilesMatch "^(config\.php|database\.sql|README\.md)$">
+DirectoryIndex index.php
+
+# Los enlaces viejos a .html abren las páginas PHP desde la raíz WEB.
+# La barra inicial es importante: sin ella Apache expone la ruta /home/... del hosting.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(index|configurador|materiales|nosotros|contacto)\.html$ /$1.php [R=302,L,NC]
+</IfModule>
+
+# No exponer el esquema ni el archivo que eventualmente contenga las claves.
+<FilesMatch "^(config\.php(\.example)?|database\.sql)$">
   Require all denied
 </FilesMatch>
+
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow, noarchive"
+</IfModule>

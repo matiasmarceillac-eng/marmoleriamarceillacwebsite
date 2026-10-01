@@ -1,8 +1,10 @@
 <?php
+// Copiá este archivo como config.php cuando tengas una base MySQL disponible.
+// En la prueba, dejalo sin copiar: contacto.php funciona como vista de muestra.
 return [
-  'db_host' => 'localhost',
-  'db_name' => 'marmoleria',
-  'db_user' => 'usuario_mysql',
-  'db_pass' => 'cambiar_esta_clave',
-  'whatsapp' => '5492236191251',
+    'host' => 'localhost',
+    'port' => 3306,
+    'database' => '',
+    'username' => '',
+    'password' => '',
 ];
